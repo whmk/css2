@@ -1,0 +1,102 @@
+.menu{
+
+    
+    margin-bottom: 30px;
+}
+.header{
+    margin-bottom: 20px;
+}
+.discription{
+    margin-bottom: 20px;
+}
+.logo{
+    margin-right: 500px;
+    width: 60px;
+    height: 60px;
+}
+.left{
+    display: inline-block;
+    width: 40%;
+
+}
+.right{
+    display: inline-block;
+    
+    width: 40%;
+}
+
+.container{
+    
+}
+.blockelement{
+    display:block;
+    margin-top:20px;
+    margin-bottom: 20px;
+    border: none;
+    background-color: lightgray;
+    outline: none;
+    border-radius: 5px;
+    height: 20px;
+    width:300px;
+    padding-left: 15px;
+    padding-left: 15px;
+    font-size: 16px;
+
+}
+button.blockelement{
+    padding-top: 10px;
+    background-color: #0084ff;
+    border-radius: 20px;
+    padding:8px;
+    width: 100px;
+    height: 20px;
+    border: none;
+    color:white;
+}
+.password{
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.inuutspan{
+    margin-bottom: 20px;
+}
+.mother{
+    
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.footer{
+    
+    margin-top: 50px;
+    text-align: center;
+    font-size: 50px;
+
+    
+}
+.appstoreimg{
+    width: 60px;
+    height: 30px;
+}
+.googleimg{
+
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+}
+.menuitem{
+    text-decoration: none;
+    color:inherit;
+    margin-left: 20px;
+
+    font-size:15px;
+    
+}
+.menuitem:hover{
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+}
+
+.rightimg{
+    width: 350px;
+    height: 350px;
+}
